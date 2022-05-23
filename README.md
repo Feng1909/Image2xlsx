@@ -12,7 +12,7 @@ pip install -r requirements.txt
 * 打开表格，`Ctrl+A`选中所有表格，调整某一个表格的长宽比，推荐10*10像素，然后按住`Ctrl`，滚动鼠标缩小整个表格，保存即可
 
 ## 效果图
-原图： 
+原图：  
 ![img](./example.jpg)  
-转换结果  
+转换结果:  
 ![img](./example_out.jpg)
