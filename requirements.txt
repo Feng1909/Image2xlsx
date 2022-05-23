@@ -1,0 +1,4 @@
+openpyxl==3.0.9
+opencv-python==4.5.5.62
+matplotlib==3.5.1
+sympy==1.10.1
